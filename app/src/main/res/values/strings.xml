@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">NuTech \'16</string>
+    <string name="DrawerOpen">DrawerOpen</string>
+    <string name="DrawerClose">DrawerClose</string>
+    <string-array name="clublist">
+        <item>Home</item>
+        <item>EuphoRia</item>
+        <item>Electrical Events</item>
+        <item>Civil Events</item>
+        <item>Mechanical Events</item>
+        <item>Robotics Events</item>
+        <item>Management Events</item>
+        <item>Non-Tech Events</item>
+        <item>Computer Events</item>
+        <item>Chemical Events</item>
+    </string-array>
+
+
+    <!--EUPHORIA STARTS-->
+    <string-array name="euphoriatitles">
+        <item>Mock CID</item>
+        <item>Quiz O’ Dare</item>
+        <item>Best from waste</item>
+        <item>Beg Borrow Steal</item>
+        <item>Jam / Block and Tackle</item>
+        <item>Nu-Lens</item>
+    </string-array>
+    <string-array name="euphorialoc">
+        <item>B-101 ON 22/01</item>
+        <item>B-102 ON 22/01</item>
+        <item>B-103 ON 22/01</item>
+        <item>B-104 ON 22/01</item>
+        <item>B-105 ON 22/01</item>
+        <item>B-106 ON 22/01</item>
+    </string-array>
+
+    <string-array name="euphoriadatetime">
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+    </string-array>
+
+
+    <string-array name="euphoriaother">
+        <item>(TEAM OF 2 TO 4)</item>
+        <item>(TEAM OF 2)</item>
+        <item>(TEAM OF 2)</item>
+        <item>(TEAM OF 2)</item>
+        <item>(SINGLE)</item>
+        <item>(ONLINE)</item>
+    </string-array>
+
+    <string-array name="euphoriadesc">
+        <item>Here is an interesting on campus Murder Mystery, live the fantasy of putting yourselves in the shoes of Sherlock for a day and traverse the path of unsolved mysteries. Trace back the clues spread over campus, one leading to other, investigate the case and interact with the witnesses. The one who finds the real murderer wins!</item>
+        <item>Knowledge doesn\'t triumph always! This NU-TECH test your guts along with wits, face the venturesome quiz made audacious by adding some crazy dares and fortune cards. Quiz it or dare it, just make it</item>
+        <item>Nothing beats “JUGAAD”. Explore your creativity while you make wonder from trash. Create innovative stuff out of waste(less useful stuff that participants would use, are supposed to be brought by them).</item>
+        <item>Are you a good bidder? Or great at bargaining? Or a little silent sneaky types? This game requires more than knowledge and talent, show us how weird crazy or smart you can get by collecting most radical, weird and extraordinary things faster than others, you can beg, borrow or have the audacity to steal.</item>
+        <item>So you think you can blabber, this is especially for volubles like you! It’s not just impromptu speaking, you would have to Defend (support) on block and attack (criticize) on tackle. The one that remains fluent through jam master’s rapidly changing block/tackle is the one who wins!</item>
+        <item>Our beautiful campus through your eyes. Let lens do the magic during one of the biggest tech fests. Capture the beautiful moments and campus during Nu-tech, send it to us and the best pictures win!!</item>
+    </string-array>
+
+    <!--EUPHORIA ENDS-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
