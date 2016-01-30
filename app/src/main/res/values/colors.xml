@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#FFE082</color>
-    <color name="colorPrimaryDark">#FFC107</color>
-    <color name="colorAccent">#FFE082</color>
-    <color name="textColor">#212121</color>
-    <color name="drawerColor">#FFF8E1</color>
-    <color name="background">#FFF8E1</color>
-</resources>
